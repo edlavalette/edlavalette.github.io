@@ -371,13 +371,13 @@ body {
 
 #testimonials {
   padding: 100px 0;
-  background-color: #eef4f7;  /* warm off-white — change to whatever you want */
+  background-color: #e8dfcd;  /* change to whatever you want */
 
   .testimonial {
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
-    padding: 2rem 1.5rem 2.5rem !important;  /* top, sides, bottom */
+    padding: 2rem 1.5rem 1.5rem !important;  /* top, sides, bottom */
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 
     &:hover {
